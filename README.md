@@ -45,10 +45,14 @@ https://t.me/GithubHome/19
 ## Reklam 👥
 
 > **Sanal Numara Satın Alacak İçin Şahıslar Ekibimizden Enes Arkadaşımıza Danışabilirsiniz**
-<p align="center">
-
-<b> [Sanal Numara•](https://t.me/Zedzedar) <br> <br>
+<b> [Sanal Numara Destek •](https://t.me/Zedzedar) <br> <br>
 
 # Destek 👾
 
-<b> [Hakkımızda •](https://t.me/ParisBear) <br> <br>
+<h3 align="center">
+    ─「 Destek Kanal 」─
+</h3>
+
+<p align="center">
+<a href="t.me/ParisBear"><img src="https://img.shields.io/badge/-Grup-pink.svg?style=for-the-badge&logo=Kanal"></a>
+</p>

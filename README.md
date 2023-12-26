@@ -38,7 +38,10 @@ https://www.sslforfree.com
 ```
 https://github.com/zeedslowy/UltimateSmsPanel/releases/tag/ultimatesms
 ```
-
+`Telegram Channel`
+```
+https://t.me/GithubHome/19
+```
 ## Reklam 👥
 
 > **Sanal Numara Satın Alacak İçin Şahıslar Ekibimizden Enes Arkadaşımıza Danışabilirsiniz**

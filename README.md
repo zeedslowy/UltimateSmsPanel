@@ -50,6 +50,8 @@ https://github.com/zeedslowy/UltimateSmsPanel/releases/tag/ultimatesms
 ```
 https://t.me/GithubHome/19
 ```
+</details>
+
 ## Reklam 👥
 
 > **Sanal Numara Satın Alacak İçin Şahıslar Ekibimizden Enes Arkadaşımıza Danışabilirsiniz**

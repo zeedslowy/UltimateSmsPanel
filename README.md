@@ -14,7 +14,10 @@
 - Telesign
 ```
 
-## Gerekli Araçlar 📚
+<details>
+<summary><h3>
+- <b> Gerekli Araclar ☘️</b>
+</h3></summary>
 
 `CPANEL`
 ```
@@ -32,8 +35,12 @@ https://www.apachefriends.org/tr/index.html
 ```
 https://www.sslforfree.com
 ```
+</details>
 
-# Aracı İndirin 🔃
+<details>
+<summary><h3>
+- <b> kaynak ☘️</b>
+</h3></summary>
 `Github`
 ```
 https://github.com/zeedslowy/UltimateSmsPanel/releases/tag/ultimatesms
@@ -46,6 +53,8 @@ https://t.me/GithubHome/19
 
 > **Sanal Numara Satın Alacak İçin Şahıslar Ekibimizden Enes Arkadaşımıza Danışabilirsiniz**
 <b> [Sanal Numara Destek •](https://t.me/Zedzedar) <br> <br>
+
+</details>
 
 # Destek 👾
 
